@@ -1,1 +1,1 @@
-# todo_app
+# A sample todo app in react
